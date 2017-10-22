@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48365" started-at="2017-10-22T04:53:09Z" finished-at="2017-10-22T04:53:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48365" started-at="2017-10-22T04:53:09Z" finished-at="2017-10-22T04:53:58Z">
+      <class name="com.testcases.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testcases.LoginTest@57fffcd7]" name="init" is-config="true" duration-ms="11794" started-at="2017-10-22T15:53:09Z" finished-at="2017-10-22T15:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.testcases.LoginTest@57fffcd7]" name="testLogin" duration-ms="9603" started-at="2017-10-22T15:53:21Z" finished-at="2017-10-22T15:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="369" started-at="2017-10-22T15:53:57Z" finished-at="2017-10-22T15:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.SettingsTest@31ef45e3]" name="tearDown" is-config="true" duration-ms="389" started-at="2017-10-22T15:53:57Z" finished-at="2017-10-22T15:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.LoginTest -->
+      <class name="com.testcases.SettingsTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testcases.SettingsTest@31ef45e3]" name="init" is-config="true" duration-ms="11412" started-at="2017-10-22T15:53:31Z" finished-at="2017-10-22T15:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="settingsTest()[pri:0, instance:com.testcases.SettingsTest@31ef45e3]" name="settingsTest" duration-ms="14766" started-at="2017-10-22T15:53:42Z" finished-at="2017-10-22T15:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingsTest -->
+      </class> <!-- com.testcases.SettingsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
